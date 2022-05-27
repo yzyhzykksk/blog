@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "jinweiOS/blog", // TODO: 修改默认跳转仓库
 
-  docsDir: "demo/src",
+  docsDir: "blog",
 
   // navbar
   navbar: navbar,
