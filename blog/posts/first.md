@@ -1,14 +1,17 @@
 ---
-icon: edit
 date: 2022-05-29
 category:
-  - CategoryA
-  - CategoryB
+  - 博客
+  - 前端
+  - 技术
 tag:
-  - tag 博客
-  - tag 入门
-star: true
+  - tag 第一篇博客
+  - tag 前端
 ---
 
-# 文章 12
+# 这是我的第一篇博客
+
+## 今天是第三天
+
+今天要学习vue
 
